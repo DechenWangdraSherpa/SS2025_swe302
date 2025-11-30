@@ -1,0 +1,12 @@
+┌──(dwangshers㉿dw4ngsh3rs-Kali)-[~/Desktop/swe302_assignments/react-redux-realworld-example-app]
+└─$ find /home/dwangshers/Desktop/swe302_assignments/react-redux-realworld-example-app -name "*.test.js" -type f | sort
+/home/dwangshers/Desktop/swe302_assignments/react-redux-realworld-example-app/node_modules/react-scripts/template/src/App.test.js
+/home/dwangshers/Desktop/swe302_assignments/react-redux-realworld-example-app/node_modules/registry-auth-token/test/auth-token.test.js
+/home/dwangshers/Desktop/swe302_assignments/react-redux-realworld-example-app/node_modules/registry-auth-token/test/registry-url.test.js
+/home/dwangshers/Desktop/swe302_assignments/react-redux-realworld-example-app/src/components/ArticleList.test.js
+/home/dwangshers/Desktop/swe302_assignments/react-redux-realworld-example-app/src/components/ArticlePreview.test.js
+/home/dwangshers/Desktop/swe302_assignments/react-redux-realworld-example-app/src/components/Editor.test.js
+/home/dwangshers/Desktop/swe302_assignments/react-redux-realworld-example-app/src/components/Header.test.js
+/home/dwangshers/Desktop/swe302_assignments/react-redux-realworld-example-app/src/components/Login.test.js
+/home/dwangshers/Desktop/swe302_assignments/react-redux-realworld-example-app/src/reducers/articleList.test.js
+/home/dwangshers/Desktop/swe302_assignments/react-redux-realworld-example-app/src/reducers/auth.test.js
